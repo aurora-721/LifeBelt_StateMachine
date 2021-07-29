@@ -3,6 +3,7 @@
 #include <chrono>
 #include <thread>
 #include <iostream>
+#include <string>
 
 class StateMachineTimer
 {
@@ -15,5 +16,6 @@ public:
 	void startTimer();
 	void stopTimer();
 	float checkTimer();
+	std::string recordTime();
 };
 

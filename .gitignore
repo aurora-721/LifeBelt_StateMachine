@@ -1,0 +1,7 @@
+Debug
+Project2.sln
+*.vcxproj*
+x64
+Project2/64x
+Project2/Debug
+.vs
